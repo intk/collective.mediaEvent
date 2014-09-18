@@ -1,4 +1,4 @@
-# collective.mediaPage
+# collective.mediaEvent
 
 ## Introduction
 
