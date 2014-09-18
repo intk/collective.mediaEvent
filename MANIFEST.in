@@ -1,0 +1,6 @@
+include *.py
+include *.txt
+include *.rst
+recursive-include collective *
+recursive-include docs *
+global-exclude *py[co], *mo
